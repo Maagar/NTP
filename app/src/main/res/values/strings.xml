@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NTP</string>
+    <string name="notes">Notatki</string>
+    <string name="weather">Pogoda</string>
+</resources>
