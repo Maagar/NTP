@@ -9,6 +9,4 @@ data class Note(
     @PrimaryKey(autoGenerate = true) val id: Int = 0,
     val title: String,
     val content: String,
-    val createdAt: Instant = Instant.now(),
-    val editedAt: Instant = Instant.now()
 )

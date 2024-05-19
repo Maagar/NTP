@@ -1,5 +1,15 @@
 <resources>
     <string name="app_name">NTP</string>
     <string name="notes">Notatki</string>
-    <string name="weather">Pogoda</string>
+    <string name="jokes">Żarty</string>
+    <string name="add_note">Add Note</string>
+    <string name="new_note">Nowa notatka</string>
+    <string name="title">Tytuł</string>
+    <string name="note">Notatka</string>
+    <string name="cancel">Anuluj</string>
+    <string name="save">Zapisz</string>
+    <string name="delete">Usuń</string>
+    <string name="tell_me_a_joke">Opowiedz mi żart</string>
+    <string name="close">zamknij</string>
+
 </resources>
